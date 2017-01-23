@@ -10,6 +10,7 @@ int main()
 {
 	printf("Hello World!\n");
 	printf("OK");
+	printf("thank");
 	system("pause");
     return 0;
 }
