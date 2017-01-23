@@ -9,6 +9,7 @@
 int main()
 {
 	printf("Hello World!\n");
+	printf("OK");
 	system("pause");
     return 0;
 }
